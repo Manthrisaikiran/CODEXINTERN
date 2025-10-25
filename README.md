@@ -2,7 +2,7 @@
 
 This repository contains three Python projects developed during the CODEXINTERN Internship, showcasing applications in data analysis, machine learning, and matrix operations.
 
-Project Overview
+PROJECT OVERVIEW:
 
 The projects demonstrate practical Python skills for real-world tasks:
 
