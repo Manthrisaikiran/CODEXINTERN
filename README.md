@@ -39,24 +39,25 @@ Built interactively using NumPy with error handling.
 Repository Structure
 
 CODEXINTERN/
-│
-├── Task1/
 
-│   ├── data.csv
+         │
+         ├── Task1/
 
-│   └── DataAnalysis.py
+         │   ├── data.csv
 
-├── Task2/
+         │   └── DataAnalysis.py
 
-│   ├── train.csv
+         ├── Task2/
 
-│   └── house_price_prediction.py
+         │   ├── train.csv
 
-├── Task3/
+         │   └── house_price_prediction.py
 
-│   └── matrix_operations_tool.py
+         ├── Task3/
 
-└── README.md
+         │   └── matrix_operations_tool.py
+
+             └── README.md
 
 
 ✨ Author
