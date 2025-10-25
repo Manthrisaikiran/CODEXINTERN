@@ -175,8 +175,7 @@ CODEXINTERN-Projects/
 👨‍💻 Manthri Sai kiran
 Python & Full Stack Developer | Data Science Enthusiast
 
-📧 Email: [your-email@example.com
+📧 Email: manthrisai3535@gmail.com
 ]
-🔗 GitHub: https://github.com/<your-username>
-
+🔗 GitHub: https://github.com/Manthrisaikiran
 🔗 LinkedIn: https://linkedin.com/in/<your-profile>
