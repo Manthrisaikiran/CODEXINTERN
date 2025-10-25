@@ -1,5 +1,5 @@
 # ============================================================
-# 🏠 Project: House Price Prediction using Linear Regression
+# 🏠 Project:House Price Prediction using Linear Regression
 # ============================================================
 # Objective:
 # Develop a linear regression model to predict house price 
@@ -70,4 +70,5 @@ print("- 'OverallQual' and 'GrLivArea' have strong positive impact on price.")
 print(f"- Model explains about {r2*100:.2f}% of price variation.")
 print("- RMSE shows average prediction error.")
 print("- Model accuracy can be improved using advanced regression techniques.")
+
 
