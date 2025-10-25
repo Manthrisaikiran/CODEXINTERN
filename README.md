@@ -1,181 +1,58 @@
 🧠 CODEXINTERN Python & Data Science Projects
 
-This repository contains three major Python projects developed during the CODEXINTERN Internship Program, showcasing applications of data analysis, machine learning, and matrix computation.
+This repository contains three Python projects developed during the CODEXINTERN Internship, showcasing applications in data analysis, machine learning, and matrix operations.
 
-📘 Project Overview
-🧩 Task 1: Data Analysis & Visualization with Pandas and Matplotlib
+Project Overview
 
-Objective:
-To perform basic data analysis on a CSV dataset using Pandas and visualize insights using Matplotlib.
+The projects demonstrate practical Python skills for real-world tasks:
 
-Key Features:
+Task 1 – Data Analysis & Visualization
 
-Load and explore CSV data using Pandas.
+File: Task1/DataAnalysis.py
 
-Perform basic statistical analysis (mean, median, mode, etc.).
+Analyze CSV datasets (data.csv) using Pandas.
 
-Calculate the average of a selected column.
+Perform statistics, correlations, and insights.
 
-Create multiple visualizations:
+Visualize data using Matplotlib and Seaborn (bar charts, scatter plots, heatmaps).
 
-📊 Bar Charts
+Task 2 – House Price Prediction
 
-🔵 Scatter Plots
+File: Task2/house_price_prediction.py
 
-🔥 Heatmaps
+Predict house prices using Linear Regression.
 
-Generate insights and observations from data patterns and correlations.
+Data preprocessing, train/test split, and evaluation using R², MAE, RMSE.
 
-Libraries Used:
+Dataset: train.csv
 
-pandas
+Libraries: pandas, numpy, scikit-learn, matplotlib.
 
-matplotlib
+Task 3 – Matrix Operations Tool
 
-seaborn (optional for enhanced heatmaps)
+File: Task3/matrix_operations_tool.py
 
-Insights Example:
+Perform matrix addition, subtraction, multiplication, transpose, and determinant calculation.
 
-Found correlations between key variables.
+Built interactively using NumPy with error handling.
 
-Identified trends using visual analysis.
-
-Observed outliers through scatter plots and heatmaps.
-
-🏠 Task 2: House Price Prediction using Linear Regression
-
-Objective:
-To build a Linear Regression Model that predicts house prices based on features such as the number of rooms, location, and size.
-
-Steps Involved:
-
-Dataset Collection:
-
-Sourced from Kaggle (Housing Price Dataset).
-
-Data Preprocessing:
-
-Handled missing values, outliers, and categorical encoding.
-
-Normalized and split data into training and testing sets.
-
-Model Building:
-
-Implemented Linear Regression using scikit-learn.
-
-Model Evaluation:
-
-Evaluated using R² Score, Mean Absolute Error (MAE), and Root Mean Square Error (RMSE).
-
-Prediction:
-
-Model predicts prices based on new user input (number of rooms, size, etc.).
-
-Libraries Used:
-
-pandas
-
-numpy
-
-scikit-learn
-
-matplotlib
-
-Outcome:
-
-Achieved accurate predictions with minimal error.
-
-Visualized the regression line and prediction performance.
-
-🔢 Task 3: Matrix Operations Tool using NumPy
-
-Objective:
-To develop a Matrix Operations Tool that allows users to perform common matrix operations interactively using NumPy.
-
-Features:
-
-Input two matrices from the user.
-
-Perform the following operations:
-
-➕ Addition
-
-➖ Subtraction
-
-✖️ Multiplication
-
-🔁 Transpose
-
-📐 Determinant Calculation
-
-Display results in a clean, formatted output.
-
-Libraries Used:
-
-numpy
-
-Highlights:
-
-Interactive user input system.
-
-Error handling for invalid operations.
-
-Real-time computation and formatted results.
-
-⚙️ Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/<your-username>/CODEXINTERN-Projects.git
-cd CODEXINTERN-Projects
-
-
-Install dependencies:
-
-pip install pandas numpy matplotlib scikit-learn seaborn
-
-
-Run the desired project:
-
-python task1_data_analysis.py
-python task2_house_price_prediction.py
-python task3_matrix_tool.py
-
-📊 Technologies Used
-
-Python 3.x
-
-Pandas – for data manipulation
-
-Matplotlib / Seaborn – for visualization
-
-Scikit-learn – for machine learning
-
-NumPy – for mathematical and matrix operations
-
-💡 Insights & Learnings
-
-Understood practical data analysis using Pandas and visualization libraries.
-
-Built and evaluated a regression model for predictive analytics.
-
-Strengthened understanding of linear algebra concepts using NumPy.
-
-📁 Repository Structure
-CODEXINTERN-Projects/
+Repository Structure
+CODEXINTERN/
 │
-├── task1_data_analysis.py
-├── task2_house_price_prediction.py
-├── task3_matrix_tool.py
-│
+├── Task1/
+│   ├── data.csv
+│   └── DataAnalysis.py
+├── Task2/
+│   ├── train.csv
+│   └── house_price_prediction.py
+├── Task3/
+│   └── matrix_operations_tool.py
 └── README.md
 
-✨ Author
 
+✨ Author
 👨‍💻 Manthri Sai kiran
 Python & Full Stack Developer | Data Science Enthusiast
-
 📧 Email: manthrisai3535@gmail.com
-]
 🔗 GitHub: https://github.com/Manthrisaikiran
 🔗 LinkedIn: https://www.linkedin.com/in/manthri-sai-kiran-b7b684289
