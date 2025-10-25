@@ -39,7 +39,7 @@ Built interactively using NumPy with error handling.
 Repository Structure:
 
          CODEXINTERN/
-         
+         |
          ├── Task1/
          |   |
          │   ├── data.csv
@@ -55,7 +55,7 @@ Repository Structure:
          ├── Task3/
          |   |
          │   └── matrix_operations_tool.py
-             |
+         |   |
              └── README.md
 
 
