@@ -178,4 +178,4 @@ Python & Full Stack Developer | Data Science Enthusiast
 📧 Email: manthrisai3535@gmail.com
 ]
 🔗 GitHub: https://github.com/Manthrisaikiran
-🔗 LinkedIn: https://linkedin.com/in/<your-profile>
+🔗 LinkedIn: https://www.linkedin.com/in/manthri-sai-kiran-b7b684289
