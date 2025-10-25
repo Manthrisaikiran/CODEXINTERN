@@ -38,8 +38,8 @@ Built interactively using NumPy with error handling.
 
 Repository Structure:
 
-CODEXINTERN/
-         │
+         CODEXINTERN/
+         
          ├── Task1/
          |   |
          │   ├── data.csv
