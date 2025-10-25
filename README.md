@@ -37,16 +37,25 @@ Perform matrix addition, subtraction, multiplication, transpose, and determinant
 Built interactively using NumPy with error handling.
 
 Repository Structure
+
 CODEXINTERN/
 │
 ├── Task1/
+
 │   ├── data.csv
+
 │   └── DataAnalysis.py
+
 ├── Task2/
+
 │   ├── train.csv
+
 │   └── house_price_prediction.py
+
 ├── Task3/
+
 │   └── matrix_operations_tool.py
+
 └── README.md
 
 
