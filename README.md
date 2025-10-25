@@ -60,8 +60,14 @@ Repository Structure:
 
 
 ✨ Author
+
 👨‍💻 Manthri Sai kiran
+
 Python & Full Stack Developer | Data Science Enthusiast
+
 📧 Email: manthrisai3535@gmail.com
+
 🔗 GitHub: https://github.com/Manthrisaikiran
+
 🔗 LinkedIn: https://www.linkedin.com/in/manthri-sai-kiran-b7b684289
+
