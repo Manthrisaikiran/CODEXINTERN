@@ -1,4 +1,4 @@
-🧠 CODEXINTERN Python & Data Science Projects
+🧠** CODEXINTERN Python & Data Science Projects**
 
 This repository contains three Python projects developed during the CODEXINTERN Internship, showcasing applications in data analysis, machine learning, and matrix operations.
 
