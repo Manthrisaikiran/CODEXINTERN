@@ -65,7 +65,7 @@ Repository Structure:
 
 Python & Full Stack Developer | Data Science Enthusiast
 
-📧 Email: manthrisai3535@gmail.com
+📧 Email: 23b65a0509@nmrec.edu.in , manthrisai3535@gmail.com
 
 🔗 GitHub: https://github.com/Manthrisaikiran
 
